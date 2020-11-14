@@ -1,0 +1,25 @@
+h1,
+h2,
+a {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    margin: 3.2rem;
+}
+
+.buttons-container a {
+    width: 28rem;
+    height: 8rem;
+    border-radius: 0.8rem;
+    font: 700 2.0rem Archivo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    background: darkorange;
+}
